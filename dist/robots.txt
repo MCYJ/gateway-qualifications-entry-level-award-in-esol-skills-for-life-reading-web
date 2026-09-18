@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mcyj.github.io/gateway-qualifications-entry-level-award-in-esol-skills-for-life-reading-web/sitemap.xml

@@ -1,0 +1,11 @@
+{
+  "name": "gateway-esol-reading-entry-2-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "npm run build && npm run check"
+  }
+}
